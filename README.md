@@ -1,10 +1,10 @@
-# Forex Exhange Calculator using  React + Vite
+# Forex Exchange Calculator using  React + Vite
 
- Building a functional foerex exchange calculator using React JS.
+ Building a functional forex exchange calculator using React JS.
 
  Users can input an amount, select currencies for conversion, and click a button to fetch the exchange rate.
  
- The converter also displays flags representing currency codes, and clicking a swap button switches the currencies.
+ The calculator also displays flags representing currency codes, and clicking a swap button switches the currencies.
 
 
  ## Getting Started
